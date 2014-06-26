@@ -1,4 +1,4 @@
-##Playground
+Playground
 ==========
 
 This project is just a fun place for me to explore my coding skills (or lack there of) and play around with ideas and new techniques. 
