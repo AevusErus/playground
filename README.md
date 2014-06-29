@@ -5,4 +5,4 @@ This project is just a fun place for me to explore my coding skills (or lack the
 
 If you have any questions or comments, feel free to contact me! I would love to get feedback from other programmers that just stop by to check stuff out. 
 
-Just remember this is all a work in progress at all times.
+Just remember this is all a work in progress at all times. :D
